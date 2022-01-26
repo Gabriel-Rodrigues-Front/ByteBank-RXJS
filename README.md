@@ -19,3 +19,5 @@ Foram utilizados os principais operadores do RXJS:
 - Faz uma desestruturação do objeto da requisição de acordo com a string que foi passada como parâmetro.
 #### tap:
 - Executa qualquer código antes do próximo operador dentro do Pipe.
+
+![Página home Byte Bank](https://raw.githubusercontent.com/Gabriel-Rodrigues-Front/ByteBank-RXJS/master/ScreenShots/print1.png)
