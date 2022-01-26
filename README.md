@@ -6,7 +6,7 @@ Projeto oriundo do curso de RXJS da plataforma Alura
 
 ###### Para iniciar o Front, entrar na pasta UI, rodar o comando npm install de depois npm start
 
-Usuário default =
+##### Usuário default =
 ###### username: gabriel
 ###### password: 123
 
