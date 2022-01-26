@@ -1,9 +1,14 @@
 # ByteBank-RXJS
+
 Projeto oriundo do curso de RXJS da plataforma Alura
 
 ###### Para iniciar o BackEnd, entrar na pasta API, rodar o comando npm install de depois npm start
 
 ###### Para iniciar o Front, entrar na pasta UI, rodar o comando npm install de depois npm start
+
+Usuário default =
+username: gabriel
+password: 123
 
 Foram utilizados os principais operadores do RXJS:
 
